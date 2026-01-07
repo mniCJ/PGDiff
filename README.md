@@ -1,5 +1,5 @@
 # PGDiff：Perception-Guided Diffusion for Zero-Shot Low-Light Image Enhancement with Adaptive Frequency Modulation.
-This is a Python implementation for the paper “Perception-Guided Diffusion for Zero-Shot Low-Light Image Enhancement with Adaptive Frequency Modulation”, which is under review in the journal "The Visual Computer". We have uploaded codes, datasets and all the test results for reference.
+This is a Python implementation for the paper “Perception-Guided Diffusion for Zero-Shot Low-Light Image Enhancement with Adaptive Frequency Modulation”, which is under review in the journal "The Visual Computer". We have uploaded codes and datasets for reference.
 
 ## Method
 <img width="1481" height="772" alt="2-new" src="https://github.com/user-attachments/assets/49e7dc06-4594-4505-955d-96be75432852" />
